@@ -1,0 +1,7 @@
+{
+  "name": "u23524121_HW02_IONIC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

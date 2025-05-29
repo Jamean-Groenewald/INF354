@@ -1,0 +1,16 @@
+.register-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px; /* Add spacing between the text and button */
+  margin-top: 15px;
+}
+
+.register-link p {
+  margin: 0;
+  font-size: 14px;
+}
+
+ion-button {
+  font-size: 14px;
+}

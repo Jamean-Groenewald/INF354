@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Progress</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <!-- Show message if there are no completed workouts -->
+  <div *ngIf="completedWorkouts.length === 0" class="empty-message">
+    <p>Complete some workouts to track your progress!</p>
+  </div>
+
+  <!-- Show the list of completed workouts if available -->
+  <ion-list *ngIf="completedWorkouts.length > 0">
+    <ion-item *ngFor="let workout of completedWorkouts">
+      <ion-label>
+        <h2>{{ workout.name }}</h2>
+        <p>{{ workout.description }}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+  <ion-button expand="block" color="danger" (click)="resetProgress()" [disabled]="completedWorkouts.length === 0">
+    Reset Progress
+  </ion-button>
+
+  <ion-button expand="block" color="primary" routerLink="/home">
+    Back to Home
+  </ion-button>
+</ion-content>

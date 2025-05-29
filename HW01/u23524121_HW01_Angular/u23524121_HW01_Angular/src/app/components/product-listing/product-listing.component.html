@@ -1,0 +1,17 @@
+<div class="container">
+    <h1>Products</h1>
+    <div class="row">
+      <div class="col-md-4" *ngFor="let product of products">
+        <div class="card">
+          <div class="card-body">
+            <h5>Name: {{ product.name }}</h5>
+            <p><strong>Price:</strong> R{{ product.price }}</p>
+            <p>Description: {{ product.description }}</p>
+            <button class="btn btn-warning" [routerLink]="['/editProduct', product.id]">Edit</button>
+            <button class="btn btn-danger" (click)="deleteProduct(product.id)">Delete</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

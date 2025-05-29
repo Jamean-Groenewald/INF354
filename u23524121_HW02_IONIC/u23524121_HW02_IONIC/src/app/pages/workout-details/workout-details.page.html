@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>{{ workout?.name }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card *ngIf="workout">
+    <ion-card-header>
+      <ion-card-title>{{ workout.name }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <p>{{ workout.description }}</p>
+      
+      <p>Duration: {{ workout.duration }}</p>
+      
+      <h3>Exercises:</h3>
+      <ul>
+        <li *ngFor="let exercise of workout.exercises">{{ exercise }}</li>
+      </ul>
+      
+      <h3>Required Equipment:</h3>
+      <ul>
+        <li *ngFor="let item of workout.equipment">{{ item }}</li>
+      </ul>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-button expand="block" color="success" (click)="markAsCompleted()" [disabled]="isCompleted">
+    {{ isCompleted ? 'Completed' : 'Mark as Completed' }}
+  </ion-button>
+
+  <ion-button expand="block" color="primary" routerLink="/workouts">
+    Go Back to Workouts
+  </ion-button>
+</ion-content>

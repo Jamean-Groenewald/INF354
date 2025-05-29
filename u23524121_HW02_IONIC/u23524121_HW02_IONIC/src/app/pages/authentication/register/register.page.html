@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Register</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form (ngSubmit)="register()" #registerForm="ngForm">
+    <ion-item>
+      <ion-label position="floating">Email</ion-label>
+      <ion-input type="email" required [(ngModel)]="email" name="email"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Password</ion-label>
+      <ion-input type="password" required [(ngModel)]="password" name="password"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Confirm Password</ion-label>
+      <ion-input type="password" required [(ngModel)]="confirmPassword" name="confirmPassword"></ion-input>
+    </ion-item>
+    <ion-button expand="block" type="submit" [disabled]="!registerForm.valid">Register</ion-button>
+    <ion-button expand="block" color="primary" routerLink="/login">
+      Back to Login
+    </ion-button>
+  </form>
+</ion-content>

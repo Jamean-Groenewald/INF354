@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29684C2-0026-4811-A1D5-97D531F579D0}|u23524121_HW01_API.tests\\u23524121_HW01_API.tests.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api.tests\\controller\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29684C2-0026-4811-A1D5-97D531F579D0}|u23524121_HW01_API.tests\\u23524121_HW01_API.tests.csproj|solutionrelative:u23524121_hw01_api.tests\\controller\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:688493468:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API.tests\\Controller\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API.tests\\Controller\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API.tests\\Controller\\ProductControllerTests.cs",
+              "RelativeToolTip": "u23524121_HW01_API.tests\\Controller\\ProductControllerTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:45:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Program.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Program.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:47:22.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:47:44.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Models\\Product.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:47:03.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:46:23.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:46:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:47:18.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

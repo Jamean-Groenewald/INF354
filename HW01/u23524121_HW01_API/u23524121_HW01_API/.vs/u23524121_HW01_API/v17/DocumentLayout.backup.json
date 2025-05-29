@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|c:\\users\\jamean\\desktop\\uni\\3rd year\\inf354\\hw01-20250401t190232z-001\\hw01\\u23524121_hw01_api\\u23524121_hw01_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F00B4901-72F6-4015-B71C-157401AC68CB}|u23524121_HW01_API\\u23524121_HW01_API.csproj|solutionrelative:u23524121_hw01_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:688493468:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "u23524121_HW01_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:51:11.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\appsettings.json",
+              "RelativeDocumentMoniker": "u23524121_HW01_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jamean\\Desktop\\Uni\\3rd Year\\INF354\\HW01-20250401T190232Z-001\\HW01\\u23524121_HW01_API\\u23524121_HW01_API\\appsettings.json",
+              "RelativeToolTip": "u23524121_HW01_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T20:46:33.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
